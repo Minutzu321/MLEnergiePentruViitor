@@ -25,10 +25,10 @@ Acest proces se execută odată pe oră, întrucât baza de date de la care luă
 ![imagine 5](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/imagini/Energie%20pentru%20viitor%20(5).png?raw=true)
 ![imagine 6](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/imagini/Energie%20pentru%20viitor%20(6).png?raw=true)
 ![imagine 7](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/imagini/Energie%20pentru%20viitor%20(7).png?raw=true)
-
-## Descrierea algoritmului
+![imagine 8](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/imagini/Energie%20pentru%20viitor%20(8).png?raw=true)
+## Concluzia
 După ce antrenăm modelul, îl punem să facă un grafic cu „pierderea” (termen care face referire la eroarea dintre prezicerile algoritmului și valorile bune). Această pierdere este de două tipuri:
 pierdere la antrenament care simbolizează eroarea cu datele cu care a fost antrenat algoritmul
 pierderea la validare care simbolizează eroarea cu datele pe care algoritmul nu le-a văzut niciodată
 
-![imagine 8](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/imagini/Energie%20pentru%20viitor%20(8).png?raw=true)
+
