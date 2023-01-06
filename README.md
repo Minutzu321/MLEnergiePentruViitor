@@ -30,5 +30,4 @@ Acest proces se execută odată pe oră, întrucât baza de date de la care luă
 După ce antrenăm modelul, îl punem să facă un grafic cu „pierderea” (termen care face referire la eroarea dintre prezicerile algoritmului și valorile bune). Această pierdere este de două tipuri:
 pierdere la antrenament care simbolizează eroarea cu datele cu care a fost antrenat algoritmul
 pierderea la validare care simbolizează eroarea cu datele pe care algoritmul nu le-a văzut niciodată
-
-
+![imagine 9](https://github.com/Minutzu321/MLEnergiePentruViitor/blob/main/pierdere09052021.png?raw=true)
